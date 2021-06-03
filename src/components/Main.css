@@ -1,0 +1,65 @@
+body {
+  background-image: url(https://previews.123rf.com/images/olegdudko/olegdudko1907/olegdudko190704804/128245874-stack-of-report-paper-documents-in-office.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Main {
+  text-align: center;
+  padding-top: 17rem;
+  padding-right: 30yrem;
+}
+
+.input {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+table,
+td,
+th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  width: 200px;
+  margin-left: 40rem;
+}
+
+.loader {
+  display: inline-block;
+  vertical-align: middle;
+  border: 4px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 4px solid #3498db;
+  width: 20px;
+  height: 20px;
+  animation: spin 2s linear infinite;
+}
+
+button {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+  background-color: #ddbea9;
+  outline: none;
+  border: 2px solid #000;
+  padding: 10px;
+  border-radius: 10%;
+  font-weight: bold;
+  box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 0.75);
+  cursor: pointer;
+  transition: box-shadow 0.2s ease-in-out, background 0.2s ease-in-out,
+    color 0.2s ease-in;
+  filter: drop-shadow(3px 10px 4px #eae2b7);
+}
+
+button:active {
+  background-color: #cb997e;
+  box-shadow: 0px -1px 0px -1px;
+  transition: all 0.3s ease;
+}
