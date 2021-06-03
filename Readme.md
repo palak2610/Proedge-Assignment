@@ -1,3 +1,12 @@
+## LIVE Link on Herokuapp.com--> https://proedge0502.herokuapp.com/
+
+![](https://github.com/palak2610/Proedge-Assignment/blob/main/a.PNG)
+![](https://github.com/palak2610/Proedge-Assignment/blob/main/b.PNG)
+![](https://github.com/palak2610/Proedge-Assignment/blob/main/c.PNG)
+
+## Technology Used
+This Project is Created using  `React.Js` 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
